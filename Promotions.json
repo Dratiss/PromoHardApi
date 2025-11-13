@@ -1,0 +1,31 @@
+{
+  "promotions": [
+    {
+      "id": 1,
+      "title": "RTX 3060 12GB",
+      "normal_price": 1899.90,
+      "promo_price": 1499.90,
+      "image": "https://example.com/imagens/rtx3060.jpg",
+      "store": "Kabum",
+      "link": "https://www.kabum.com.br/produto/rtx3060"
+    },
+    {
+      "id": 2,
+      "title": "Ryzen 5 5600G",
+      "normal_price": 899.90,
+      "promo_price": 689.90,
+      "image": "https://example.com/imagens/ryzen5600g.jpg",
+      "store": "Amazon",
+      "link": "https://www.amazon.com.br/produto/ryzen5600g"
+    },
+    {
+      "id": 3,
+      "title": "SSD NVMe 1TB",
+      "normal_price": 459.90,
+      "promo_price": 299.90,
+      "image": "https://example.com/imagens/ssd1tb.jpg",
+      "store": "Terabyteshop",
+      "link": "https://www.terabyteshop.com.br/produto/ssd1tb"
+    }
+  ]
+}
