@@ -1,31 +1,104 @@
 {
   "promotions": [
     {
-      "id": 1,
-      "title": "RTX 3060 12GB",
-      "normal_price": 1899.90,
-      "promo_price": 1499.90,
-      "image": "https://example.com/imagens/rtx3060.jpg",
+      "title": "RTX 3060 12GB ASUS Dual",
+      "normal_price": "R$ 2.199,90",
+      "promo_price": "R$ 1.799,90",
       "store": "Kabum",
-      "link": "https://www.kabum.com.br/produto/rtx3060"
+      "image": "https://i.imgur.com/zQBMpCv.jpeg",
+      "link": "https://www.kabum.com.br/",
+      "expires_at": "2025-02-20T23:59:00",
+      "stock": 8
     },
     {
-      "id": 2,
       "title": "Ryzen 5 5600G",
-      "normal_price": 899.90,
-      "promo_price": 689.90,
-      "image": "https://example.com/imagens/ryzen5600g.jpg",
+      "normal_price": "R$ 899,90",
+      "promo_price": "R$ 649,90",
       "store": "Amazon",
-      "link": "https://www.amazon.com.br/produto/ryzen5600g"
+      "image": "https://i.imgur.com/Ockxg6y.jpeg",
+      "link": "https://www.amazon.com.br/",
+      "expires_at": "2025-02-19T18:00:00",
+      "stock": 5
     },
     {
-      "id": 3,
-      "title": "SSD NVMe 1TB",
-      "normal_price": 459.90,
-      "promo_price": 299.90,
-      "image": "https://example.com/imagens/ssd1tb.jpg",
-      "store": "Terabyteshop",
-      "link": "https://www.terabyteshop.com.br/produto/ssd1tb"
+      "title": "SSD NVMe 1TB Kingston NV2",
+      "normal_price": "R$ 399,00",
+      "promo_price": "R$ 279,00",
+      "store": "Terabyte",
+      "image": "https://i.imgur.com/6T7oYwJ.jpeg",
+      "link": "https://www.terabyteshop.com.br/",
+      "expires_at": null,
+      "stock": 12
+    },
+    {
+      "title": "Fonte 650W 80 Plus Bronze",
+      "normal_price": "R$ 359,00",
+      "promo_price": "R$ 289,00",
+      "store": "Pichau",
+      "image": "https://i.imgur.com/1G6DLFd.jpeg",
+      "link": "https://www.pichau.com.br/",
+      "expires_at": "2025-02-18T23:00:00",
+      "stock": 3
+    },
+    {
+      "title": "Monitor Gamer 24'' 144Hz",
+      "normal_price": "R$ 1.199,99",
+      "promo_price": "R$ 899,99",
+      "store": "Kabum",
+      "image": "https://i.imgur.com/ZR4FYpS.jpeg",
+      "link": "https://www.kabum.com.br/",
+      "expires_at": null,
+      "stock": null
+    },
+    {
+      "title": "Teclado Mecânico Redragon Kumara",
+      "normal_price": "R$ 249,00",
+      "promo_price": "R$ 189,00",
+      "store": "Amazon",
+      "image": "https://i.imgur.com/EUjv0Gh.jpeg",
+      "link": "https://www.amazon.com.br/",
+      "expires_at": "2025-02-21T12:00:00",
+      "stock": 15
+    },
+    {
+      "title": "Mouse Gamer Logitech G203",
+      "normal_price": "R$ 149,00",
+      "promo_price": "R$ 119,00",
+      "store": "Kabum",
+      "image": "https://i.imgur.com/7ZnniEh.jpeg",
+      "link": "https://www.kabum.com.br/",
+      "expires_at": null,
+      "stock": 7
+    },
+    {
+      "title": "Headset HyperX Cloud II",
+      "normal_price": "R$ 599,00",
+      "promo_price": "R$ 479,90",
+      "store": "Pichau",
+      "image": "https://i.imgur.com/4R4mGzT.jpeg",
+      "link": "https://www.pichau.com.br/",
+      "expires_at": "2025-02-18T23:59:00",
+      "stock": 2
+    },
+    {
+      "title": "Cadeira Gamer ThunderX3",
+      "normal_price": "R$ 1.299,00",
+      "promo_price": "R$ 999,00",
+      "store": "Terabyte",
+      "image": "https://i.imgur.com/n9rE3qv.jpeg",
+      "link": "https://www.terabyteshop.com.br/",
+      "expires_at": null,
+      "stock": null
+    },
+    {
+      "title": "Placa-mãe B450M ASUS Prime",
+      "normal_price": "R$ 499,00",
+      "promo_price": "R$ 389,00",
+      "store": "Amazon",
+      "image": "https://i.imgur.com/AMUvMfa.jpeg",
+      "link": "https://www.amazon.com.br/",
+      "expires_at": "2025-02-22T23:59:00",
+      "stock": 9
     }
   ]
 }
