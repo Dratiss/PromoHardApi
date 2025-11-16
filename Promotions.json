@@ -1,37 +1,33 @@
+const String fakeJson = """
 {
   "promotions": [
     {
       "title": "RTX 3060 12GB ASUS Dual",
-      "normal_price": "R$ 2.199,90",
-      "promo_price": "R$ 1.799,90",
+      "normal_price": "R\$ 2.199,90",
+      "promo_price": "R\$ 1.799,90",
       "store": "Kabum",
-      "image": "https://via.placeholder.com/150",
-      "link": "https://www.kabum.com.br/",
-      "expires_at": "2025-02-20T23:59:00",
-      "stock": 8,
-      "category": "Placas de Vídeo"
+      "category": "Placas de Vídeo",
+      "expires_at": "2099-01-01T00:00:00",
+      "stock": 8
     },
     {
       "title": "Ryzen 5 5600G",
-      "normal_price": "R$ 899,90",
-      "promo_price": "R$ 649,90",
+      "normal_price": "R\$ 899,00",
+      "promo_price": "R\$ 649,90",
       "store": "Amazon",
-      "image": "https://via.placeholder.com/150",
-      "link": "https://www.amazon.com.br/",
-      "expires_at": "2025-02-19T18:00:00",
-      "stock": 5,
-      "category": "Processadores"
+      "category": "Processadores",
+      "expires_at": "2099-01-01T00:00:00",
+      "stock": 5
     },
     {
-      "title": "SSD NVMe 1TB Kingston NV2",
-      "normal_price": "R$ 399,00",
-      "promo_price": "R$ 279,00",
+      "title": "SSD NVMe 1TB Kingston",
+      "normal_price": "R\$ 399,00",
+      "promo_price": "R\$ 279,00",
       "store": "Terabyte",
-      "image": "https://via.placeholder.com/150",
-      "link": "https://www.terabyteshop.com.br/",
-      "expires_at": "2025-02-25T23:59:00",
-      "stock": 10,
-      "category": "Armazenamento"
+      "category": "Armazenamento",
+      "expires_at": "2099-01-01T00:00:00",
+      "stock": 12
     }
   ]
 }
+""";
