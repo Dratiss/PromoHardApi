@@ -1,169 +1,37 @@
 {
   "promotions": [
     {
+      "title": "RTX 3060 12GB ASUS Dual",
+      "normal_price": "R$ 2.199,90",
+      "promo_price": "R$ 1.799,90",
+      "store": "Kabum",
+      "image": "https://via.placeholder.com/150",
+      "link": "https://www.kabum.com.br/",
+      "expires_at": "2025-02-20T23:59:00",
+      "stock": 8,
+      "category": "Placas de Vídeo"
+    },
+    {
       "title": "Ryzen 5 5600G",
-      "category": "CPU",
-      "group": "Hardware",
       "normal_price": "R$ 899,90",
       "promo_price": "R$ 649,90",
       "store": "Amazon",
-      "image": "https://m.media-amazon.com/images/I/71Q5sdBtH-L._AC_SL1500_.jpg",
-      "expires_at": "2025-12-31T18:00:00",
-      "stock": 8
+      "image": "https://via.placeholder.com/150",
+      "link": "https://www.amazon.com.br/",
+      "expires_at": "2025-02-19T18:00:00",
+      "stock": 5,
+      "category": "Processadores"
     },
     {
-      "title": "RTX 3060 Dual OC 12GB",
-      "category": "GPU",
-      "group": "Hardware",
-      "normal_price": "R$ 2.199,90",
-      "promo_price": "R$ 1.699,90",
-      "store": "Kabum",
-      "image": "https://images.kabum.com.br/produtos/fotos/348123/placa-de-video-rtx-3060-asus-dual-oc_1626266262_g.jpg",
-      "expires_at": "2025-12-25T23:59:00",
-      "stock": 4
-    },
-    {
-      "title": "Placa-mãe ASUS B450M Gaming",
-      "category": "Placa-mãe",
-      "group": "Hardware",
-      "normal_price": "R$ 699,90",
-      "promo_price": "R$ 499,90",
-      "store": "Pichau",
-      "image": "https://images.pichau.com.br/products/asus-b450mx_1500.jpg",
-      "expires_at": "2025-12-30T20:00:00",
-      "stock": 10
-    },
-    {
-      "title": "Memória RAM 16GB DDR4 3200MHz",
-      "category": "RAM",
-      "group": "Hardware",
-      "normal_price": "R$ 299,90",
-      "promo_price": "R$ 199,90",
+      "title": "SSD NVMe 1TB Kingston NV2",
+      "normal_price": "R$ 399,00",
+      "promo_price": "R$ 279,00",
       "store": "Terabyte",
-      "image": "https://images.terabyteshop.com.br/produtos/memoria16_1500.jpg",
-      "expires_at": "2025-12-28T18:00:00",
-      "stock": 12
-    },
-    {
-      "title": "SSD Kingston NV2 1TB NVMe",
-      "category": "SSD",
-      "group": "Armazenamento",
-      "normal_price": "R$ 399,90",
-      "promo_price": "R$ 269,90",
-      "store": "Amazon",
-      "image": "https://m.media-amazon.com/images/I/71bX0v-BqkL._AC_SL1500_.jpg",
-      "expires_at": "2025-12-20T23:59:00",
-      "stock": 30
-    },
-    {
-      "title": "Fonte Corsair 650W 80 Plus Bronze",
-      "category": "Fonte",
-      "group": "Energia",
-      "normal_price": "R$ 429,90",
-      "promo_price": "R$ 329,90",
-      "store": "Kabum",
-      "image": "https://images.kabum.com.br/produtos/fotos/572832/corsair-650w_1590485328_g.jpg",
-      "expires_at": "2025-12-27T16:00:00",
-      "stock": 5
-    },
-    {
-      "title": "Gabinete Gamer Redragon",
-      "category": "Gabinete",
-      "group": "Energia",
-      "normal_price": "R$ 349,90",
-      "promo_price": "R$ 259,90",
-      "store": "Pichau",
-      "image": "https://images.pichau.com.br/produtos/gabinete-redragon_1500.jpg",
-      "expires_at": "2025-12-18T20:00:00",
-      "stock": 15
-    },
-    {
-      "title": "Cooler RGB Iceberg 240mm",
-      "category": "Resfriamento",
-      "group": "Energia",
-      "normal_price": "R$ 399,90",
-      "promo_price": "R$ 299,90",
-      "store": "Terabyte",
-      "image": "https://images.terabyteshop.com.br/produtos/wc240_1500.jpg",
-      "expires_at": "2025-12-15T15:00:00",
-      "stock": 3
-    },
-    {
-      "title": "Monitor Gamer 27' 144Hz",
-      "category": "Monitores",
-      "group": "Monitores",
-      "normal_price": "R$ 1.399,90",
-      "promo_price": "R$ 999,90",
-      "store": "Kabum",
-      "image": "https://images.kabum.com.br/produtos/fotos/1029384/monitor-27-144hz_1634837463_g.jpg",
-      "expires_at": "2025-12-31T23:59:00",
-      "stock": 7
-    },
-    {
-      "title": "Mouse Gamer Logitech G203",
-      "category": "Mouse",
-      "group": "Periféricos",
-      "normal_price": "R$ 129,90",
-      "promo_price": "R$ 89,90",
-      "store": "Amazon",
-      "image": "https://m.media-amazon.com/images/I/61L1V+8ScyL._AC_SL1500_.jpg",
-      "expires_at": "2025-12-18T22:00:00",
-      "stock": 20
-    },
-    {
-      "title": "Headset Redragon Zeus X",
-      "category": "Headset",
-      "group": "Periféricos",
-      "normal_price": "R$ 299,90",
-      "promo_price": "R$ 189,90",
-      "store": "Pichau",
-      "image": "https://images.pichau.com.br/produtos/headset-zeus_1500.jpg",
-      "expires_at": "2025-12-30T23:59:00",
-      "stock": 9
-    },
-    {
-      "title": "PlayStation 5 Slim",
-      "category": "PlayStation",
-      "group": "Consoles",
-      "normal_price": "R$ 4.499,90",
-      "promo_price": "R$ 3.799,90",
-      "store": "Amazon",
-      "image": "https://m.media-amazon.com/images/I/71q3uO+EtQL._AC_SL1500_.jpg",
-      "expires_at": "2025-12-24T23:59:00",
-      "stock": 2
-    },
-    {
-      "title": "Xbox Series S 512GB",
-      "category": "Xbox",
-      "group": "Consoles",
-      "normal_price": "R$ 2.199,90",
-      "promo_price": "R$ 1.799,90",
-      "store": "Microsoft Store",
-      "image": "https://m.media-amazon.com/images/I/51XF58j8FGL._AC_SL1000_.jpg",
-      "expires_at": "2025-12-29T23:59:00",
-      "stock": 6
-    },
-    {
-      "title": "Notebook Acer Aspire 5",
-      "category": "Notebooks",
-      "group": "Notebooks",
-      "normal_price": "R$ 3.499,90",
-      "promo_price": "R$ 2.999,90",
-      "store": "Amazon",
-      "image": "https://m.media-amazon.com/images/I/81USnGLTixL._AC_SL1500_.jpg",
-      "expires_at": "2025-12-26T23:59:00",
-      "stock": 10
-    },
-    {
-      "title": "Mini suculenta de decoração gamer",
-      "category": "Diversos",
-      "group": "Diversos",
-      "normal_price": "R$ 29,90",
-      "promo_price": "R$ 19,90",
-      "store": "Shopee",
-      "image": "https://via.placeholder.com/300",
-      "expires_at": "2025-12-10T23:59:00",
-      "stock": 50
+      "image": "https://via.placeholder.com/150",
+      "link": "https://www.terabyteshop.com.br/",
+      "expires_at": "2025-02-25T23:59:00",
+      "stock": 10,
+      "category": "Armazenamento"
     }
   ]
 }
