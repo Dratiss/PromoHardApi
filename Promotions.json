@@ -6,6 +6,9 @@
       "promo_price": "R$ 1.799,90",
       "store": "Kabum",
       "category": "Placas de Vídeo",
+      "image": "https://picsum.photos/seed/rtx3060/500/500",
+      "link": "https://www.kabum.com.br/busca/rtx-3060",
+      "description": "Placa de vídeo ASUS Dual GeForce RTX 3060 com 12GB GDDR6, ideal para jogos em 1080p e 1440p com ótimo custo-benefício.",
       "expires_at": "2099-01-01T00:00:00",
       "stock": 8
     },
@@ -15,6 +18,9 @@
       "promo_price": "R$ 649,90",
       "store": "Amazon",
       "category": "Processadores",
+      "image": "https://picsum.photos/seed/ryzen5600g/500/500",
+      "link": "https://www.amazon.com.br/s?k=ryzen+5+5600g",
+      "description": "Processador AMD Ryzen 5 5600G com 6 núcleos, 12 threads e vídeo integrado Radeon — monte um PC sem precisar de placa de vídeo dedicada.",
       "expires_at": "2099-01-01T00:00:00",
       "stock": 5
     },
@@ -24,6 +30,9 @@
       "promo_price": "R$ 279,00",
       "store": "Terabyte",
       "category": "Armazenamento",
+      "image": "https://picsum.photos/seed/ssdkingston/500/500",
+      "link": "https://www.terabyteshop.com.br/busca?str=ssd+nvme+kingston+1tb",
+      "description": "SSD Kingston NV2 1TB NVMe PCIe 4.0 com leituras de até 3.500 MB/s — deixa o boot do Windows e os jogos muito mais rápidos.",
       "expires_at": "2099-01-01T00:00:00",
       "stock": 12
     }
